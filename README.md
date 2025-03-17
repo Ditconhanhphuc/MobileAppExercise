@@ -1,16 +1,9 @@
 # homework1
 
-A new Flutter project.
+A Flutter project - My Portfolio
 
-## Getting Started
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/f25eba24-cb20-4de0-bf36-dc5f8e7904ea" />
 
-This project is a starting point for a Flutter application.
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/5a64c340-e7bb-4ba9-8ca6-1a5d8a179936" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/18d8fa60-f306-4c0f-992b-de50b3ac3ba1" />
