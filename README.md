@@ -1,23 +1,34 @@
-Lab 1 - Mobile Application
+# Lab 1 - Mobile Application  
 
-This repository contains the solutions for Lab 1 of the Mobile Application course. The lab consists of two exercises:
+This repository contains the solutions for **Lab 1** of the Mobile Application course.  
 
-Exercise 1: Portfolio App
+## Exercises  
 
-This exercise involves creating a simple Portfolio App using Flutter. The app showcases personal information, including:
+### Exercise 1: Portfolio App  
+A simple **Portfolio App** built with Flutter to showcase:  
+- **Personal details** (name, photo, introduction)  
+- **Contact information** (email, phone, LinkedIn)  
+- **Skills and projects**  
 
-Name, photo, and a short introduction
-Contact details (email, phone number, LinkedIn, etc.)
-List of skills and projects
-Exercise 2: Sentiment Analysis App
+### Exercise 2: Sentiment Analysis App  
+A **Sentiment Analysis App** using **Google’s Gemini API** to classify text as:  
+- **Positive**  
+- **Neutral**  
+- **Negative**  
 
-This exercise focuses on implementing a Sentiment Analysis App using Flutter and Google’s Gemini API. The app allows users to input text, and it classifies the sentiment as:
+## Tech Stack  
+- **Flutter (Dart)** – UI development  
+- **Google Gemini API** – Sentiment analysis  
+- **Material UI for Flutter** – Styling  
 
-Positive
-Negative
-Neutral
+## Getting Started  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Ditconhanhphuc/MobileAppExercise.git
+   cd MobileAppExercise
 
-Tech Stack
-Flutter (Dart)
-Google Gemini API
-Material UI for Flutter
+2. Switch to a specific branch: git checkout hw1/ git checkout hw2
+
+3. Install dependencies: flutter pub get
+
+4. Run the app: flutter run
