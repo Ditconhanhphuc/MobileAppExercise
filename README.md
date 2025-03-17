@@ -27,8 +27,15 @@ A **Sentiment Analysis App** using **Google’s Gemini API** to classify text as
    git clone https://github.com/Ditconhanhphuc/MobileAppExercise.git
    cd MobileAppExercise
 
-2. Switch to a specific branch: git checkout hw1/ git checkout hw2
+2. Switch to a specific branch:
+   ```bash
+   git checkout hw1
+   git checkout hw2
 
-3. Install dependencies: flutter pub get
+5. Install dependencies:
+   ```bash
+   flutter pub get
 
-4. Run the app: flutter run
+7. Run the app:
+   ```bash
+   flutter run
