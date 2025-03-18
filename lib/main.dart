@@ -19,7 +19,7 @@ class _SentimentAppState extends State<SentimentApp> {
   Future<void> analyzeSentiment() async {
     const String apiUrl =
         'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
-    const String apiKey = 'AIzaSyDyD72tC4d0RQV2R0MtDVttGgWsJzP_qtI'; // Replace with your actual API Key
+    const String apiKey = 'YOUR_API_KEY'; // Replace with your actual API Key
 
     if (_controller.text.isEmpty) {
       setState(() {
